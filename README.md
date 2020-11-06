@@ -165,14 +165,24 @@ dotnet add package Moq
 dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 ```
 
-## CI/CD
+## CI/CD Pipleline
+
+[Azure DevOPs](https://dev.azure.com/yunfeiz/)
+
+
+
+<img src="https://img2020.cnblogs.com/blog/30756/202011/30756-20201106164247605-55388328.png" alt="image-20201106164247104" style="zoom:50%;" />
 
 - CI很容易； 代表持续集成。 CI是从一个或多个使用同一软件的开发人员那里进行任何代码更改，然后通过构建和测试该代码将这些更改合并回主代码“分支”的过程。 顾名思义，此过程是连续的，通常在开发人员将“检入”代码更改为代码存储库时触发（就像您对Git / GitHub所做的那样）。CI的全部目的是确保主（或主）代码分支在整个构建活动中保持健康，并且由从事该代码的多个开发人员引入的任何新更改都不会冲突并破坏构建。
 - CD可能会更加混乱。 为什么？ 我们会听到人们同时使用以下两个术语来表示CD：持续交付和持续部署。
 
-![image-20201106135752163](https://img2020.cnblogs.com/blog/30756/202011/30756-20201106135756696-838710033.png)
 
-Figure 12-1. Continuous: integration, delivery, and deployment
+
+## Deploying to Azure
+
+p349
+
+
 
 
 
@@ -180,3 +190,6 @@ Figure 12-1. Continuous: integration, delivery, and deployment
 [2]: https://github.com/binarythistle/Secure-Daemon-Client
 [source code]: https://github.com/binarythistle/Complete-ASP-NET-3-API-Tutorial-Book
 [DBeaver]: https://dbeaver.io/download/
+
+
+
