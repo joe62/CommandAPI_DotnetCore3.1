@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\temp\\CommandAPISolutionAspDotNet31\\src\\CommandAPI\\CommandAPI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "CommandAPI",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
